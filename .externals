@@ -18,9 +18,7 @@ login			https://source.sakaiproject.org/svn/login/trunk
 access			https://source.sakaiproject.org/svn/access/trunk
 content			https://source.sakaiproject.org/svn/content/trunk
 metaobj			https://source.sakaiproject.org/svn/metaobj/trunk
-calendar		https://source.sakaiproject.org/svn/calendar/trunk
 portal			https://source.sakaiproject.org/svn/portal/trunk
 jsf				https://source.sakaiproject.org/svn/jsf/trunk
-sections		https://source.sakaiproject.org/svn/sections/trunk
 course-management	https://source.sakaiproject.org/svn/course-management/trunk
 test-harness	https://source.sakaiproject.org/svn/test-harness/trunk
