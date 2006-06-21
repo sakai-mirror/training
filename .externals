@@ -4,7 +4,7 @@ authz/authz-api		https://source.sakaiproject.org/svn/authz/trunk/authz-api
 authz/authz-impl	https://source.sakaiproject.org/svn/authz/trunk/authz-impl
 component		https://source.sakaiproject.org/svn/component/trunk
 content/content-api	https://source.sakaiproject.org/svn/content/trunk/content-api
-content/content_impl	https://source.sakaiproject.org/svn/content/trunk/content-impl
+content/content-impl	https://source.sakaiproject.org/svn/content/trunk/content-impl
 course-management	https://source.sakaiproject.org/svn/course-management/trunk
 db			https://source.sakaiproject.org/svn/db/trunk
 email			https://source.sakaiproject.org/svn/email/trunk
@@ -25,4 +25,4 @@ tool			https://source.sakaiproject.org/svn/tool/trunk
 user/user-api		https://source.sakaiproject.org/svn/user/trunk
 user/user-impl		https://source.sakaiproject.org/svn/user/trunk/user-api
 user/user-util		https://source.sakaiproject.org/svn/user/trunk/user-impl
-util			https://source.sakaiproject.org/svn/util/trunk/user-util
+util			https://source.sakaiproject.org/svn/util/trunk
