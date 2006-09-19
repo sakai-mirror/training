@@ -25,6 +25,7 @@ providers/sample	https://source.sakaiproject.org/svn/providers/trunk/sample
 reference		https://source.sakaiproject.org/svn/reference/trunk
 site/site-api		https://source.sakaiproject.org/svn/site/trunk/site-api
 site/site-impl		https://source.sakaiproject.org/svn/site/trunk/site-impl
+test-harness		https://source.sakaiproject.org/svn/test-harness/trunk
 tool			https://source.sakaiproject.org/svn/tool/trunk
 user/user-api		https://source.sakaiproject.org/svn/user/trunk/user-api
 user/user-impl		https://source.sakaiproject.org/svn/user/trunk/user-impl
