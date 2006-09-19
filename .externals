@@ -12,6 +12,7 @@ entity			https://source.sakaiproject.org/svn/entity/trunk
 event			https://source.sakaiproject.org/svn/event/trunk
 jsf			https://source.sakaiproject.org/svn/jsf/trunk
 login			https://source.sakaiproject.org/svn/login/trunk
+mailarchive		https://source.sakaiproject.org/svn/mailarchive/
 master			https://source.sakaiproject.org/svn/master/trunk
 memory/memory-api	https://source.sakaiproject.org/svn/memory/trunk/memory-api
 memory/memory-impl	https://source.sakaiproject.org/svn/memory/trunk/memory-impl
