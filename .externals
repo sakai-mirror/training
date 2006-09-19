@@ -18,6 +18,8 @@ memory/memory-impl	https://source.sakaiproject.org/svn/memory/trunk/memory-impl
 portal/portal-mercury	https://source.sakaiproject.org/svn/portal/trunk/portal-mercury
 portal/portal-util	https://source.sakaiproject.org/svn/portal/trunk/portal-util
 portal/portal-impl	https://source.sakaiproject.org/svn/portal/trunk/portal-impl
+providers/component	https://source.sakaiproject.org/svn/providers/trunk/component
+providers/sample	https://source.sakaiproject.org/svn/providers/trunk/sample
 reference		https://source.sakaiproject.org/svn/reference/trunk
 site/site-api		https://source.sakaiproject.org/svn/site/trunk/site-api
 site/site-impl		https://source.sakaiproject.org/svn/site/trunk/site-impl
